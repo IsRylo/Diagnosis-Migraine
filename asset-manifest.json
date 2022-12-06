@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Diagnosis-Migraine/static/css/main.6d01e88a.css",
+    "main.js": "/Diagnosis-Migraine/static/js/main.22843e2d.js",
+    "static/js/787.6643388c.chunk.js": "/Diagnosis-Migraine/static/js/787.6643388c.chunk.js",
+    "index.html": "/Diagnosis-Migraine/index.html",
+    "main.6d01e88a.css.map": "/Diagnosis-Migraine/static/css/main.6d01e88a.css.map",
+    "main.22843e2d.js.map": "/Diagnosis-Migraine/static/js/main.22843e2d.js.map",
+    "787.6643388c.chunk.js.map": "/Diagnosis-Migraine/static/js/787.6643388c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d01e88a.css",
+    "static/js/main.22843e2d.js"
+  ]
+}
