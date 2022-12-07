@@ -99,3 +99,10 @@ nav {
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee
 }
+
+
+@media only screen and (max-width: 700px) {
+  #explanationContainer{
+    display: none;
+  }
+}

@@ -165,7 +165,7 @@ function App() {
 
 
       {/* Explanaction Section */}
-      <div className = "col" > 
+      <div id="explanationContainer" className="col" > 
         <div id="Explanation">
               <h2 className="section-title">Jawaban Anda</h2>
               <div className="d-flex flex-column">
